@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning CS50's
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me emial: clira_im@hotmail.com
+- 📫 How to reach me email: clira_im@hotmail.com
 
 <!---
 cliras/cliras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
