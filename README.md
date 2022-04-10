@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cliras
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning CS50's
+- 🌱 I’m currently learning CS50'b
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me email: clira_im@hotmail.com
 
